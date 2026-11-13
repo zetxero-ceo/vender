@@ -3,7 +3,7 @@
 ระบบจัดการสต๊อกตู้จำหน่ายสินค้าอัตโนมัติ — ทำงานแบบ **Offline-first** บนเบราว์เซอร์
 เก็บข้อมูลในเครื่องผ่าน `localStorage` ไม่ต้องติดตั้ง ไม่ต้องใช้เซิร์ฟเวอร์ (ไม่มี build step และไม่มี package ที่ต้องติดตั้ง)
 
-🔗 **ใช้งานออนไลน์:** https://saharatyokthuan.github.io/vender/
+🔗 **ใช้งานออนไลน์:** https://zetxero-main.github.io/vender/
 
 ---
 
@@ -42,7 +42,7 @@ vender/
 ## 🚀 วิธีใช้งาน
 
 ### ออนไลน์
-เปิด https://saharatyokthuan.github.io/vender/
+เปิด https://zetxero-main.github.io/vender/
 
 ### ในเครื่อง
 เปิดไฟล์ `index.html` ในเบราว์เซอร์ได้ทันที — หรือรันผ่าน local server:
