@@ -28,8 +28,6 @@ vender/
 ├── script.js           # ตรรกะทั้งหมดของแอป (เก็บข้อมูลใน localStorage)
 ├── style.css           # สไตล์ และโหลดฟอนต์จาก Google Fonts
 ├── server.py           # ไม่ได้ถูกใช้งาน — ดูหมายเหตุด้านล่าง
-├── .github/workflows/
-│   └── datadog-synthetics.yml  # GitHub Actions รัน Datadog Synthetic tests
 └── README.md           # ไฟล์นี้
 ```
 
